@@ -1,0 +1,23 @@
+{
+  "name": "dione",
+  "version": "0.0.1",
+  "description": "Instrumentalizes JavaScript code to send tracing information via WebSockets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gimenete/dione.git"
+  },
+  "author": "Alberto Gimeno <gimenete@gimenete.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gimenete/dione/issues"
+  },
+  "homepage": "https://github.com/gimenete/dione#readme",
+  "dependencies": {
+    "falafel": "^1.2.0",
+    "websocket": "^1.0.22"
+  }
+}
